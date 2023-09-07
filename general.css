@@ -10,11 +10,14 @@ color: #7878ac !important;
  margin-left:20px !important;
  margin-right:20px !important;
  padding:5px;
+ border-radius: 15px;
 }
 .container{
  margin:20px !important;
  background:#ffffff!important;
     margin: 20px;
     height: 100%;
-    width: 100%;
+    width:100%!important;
+    max-width: 100%!important;
+    border-radius: 15px;
 }
