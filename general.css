@@ -9,4 +9,7 @@ color: #7878ac !important;
 .container{
  margin:20px !important;
  background:#ffffff!important;
+    margin: 20px;
+    height: 100%;
+    width: 100%;
 }
