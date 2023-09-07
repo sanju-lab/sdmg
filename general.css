@@ -6,6 +6,9 @@ color: #7878ac !important;
  text-align: center;
   font-weight:700;
 }
+.nav-container{
+ margin:20px !important;
+}
 .container{
  margin:20px !important;
  background:#ffffff!important;
