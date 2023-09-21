@@ -2,6 +2,9 @@ html, body{
 background-color: #e5f2fb!important;
 color: #7878ac !important;
 }
+.bg-light {
+    width: 100%;
+}
 .top_header{
  text-align: center;
   font-weight:700;
